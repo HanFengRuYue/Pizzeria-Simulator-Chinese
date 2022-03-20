@@ -1,5 +1,5 @@
 # Pizzeria-Simulator中文汉化带字幕版
-此版本是基于原版Pizzeria Simulator制作的汉化带字幕版，如有发现翻译错误或游戏BUG可以提出Issues或进入QQ群：517836278进行反馈！
+此版本是基于原版Pizzeria Simulator制作的汉化带字幕版，如有发现翻译错误或游戏BUG可以提出Issues或进入QQ群：517836278进行反馈！<br/>
 E版代表的是Easy版，在夜晚模式加入了警报提示和在回收模式里加入二阶段和三阶段的警报。
 # 下载地址：
 中文汉化带字幕版：<br/>
