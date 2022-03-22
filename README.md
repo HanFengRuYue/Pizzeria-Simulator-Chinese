@@ -3,8 +3,8 @@
 E版代表的是Easy版，在夜晚模式加入了警报提示和在回收模式里加入二阶段和三阶段的警报。
 # 下载地址：
 中文汉化带字幕版：<br/>
-[百度网盘](https://pan.baidu.com/s/1KimmpWmLKkS6jM1HC9ScmA?pwd=fnaf) <br/>
+[百度网盘](https://pan.baidu.com/s/1fmS8xp2j3od5-RhDEj6hbQ?pwd=fnaf) <br/>
 [谷歌云端](https://drive.google.com/file/d/1jMRmKYPSbI96nEoLqgPBUJbS9kqr7Ara/view?usp=sharing) <br/>
 中文汉化带字幕Easy版：<br/>
-[百度网盘](https://pan.baidu.com/s/1ndGOhjUMuQtjD5nGsohw1w?pwd=fnaf) <br/>
+[百度网盘](https://pan.baidu.com/s/1fmS8xp2j3od5-RhDEj6hbQ?pwd=fnaf) <br/>
 [谷歌云端](https://drive.google.com/file/d/1-WPH40Nail8F7V4wYO0kEDuI9TRepDyI/view?usp=sharing) <br/>
